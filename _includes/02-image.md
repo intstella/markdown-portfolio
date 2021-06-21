@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Four Leaf Clover](https://images-na.ssl-images-amazon.com/images/I/71oV-mNdVxL.png)
