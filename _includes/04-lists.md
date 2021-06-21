@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+Some of my favorite things:
+  - traveling
+  - music
+  - art
+  - dancing
+  - exercise
+  - nature
+  - food
